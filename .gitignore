@@ -1,0 +1,8 @@
+   .env
+   __pycache__/
+   .pytest_cache/
+   *.py[cod]
+   data/student_support.db
+   .venv/
+   venv/
+   .DS_Store
